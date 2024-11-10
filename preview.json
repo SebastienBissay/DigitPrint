@@ -1,1 +1,24 @@
-{"Parameters":{"SEED":11}}
+{
+  "Parameters": {
+    "STROKE_COLOR": {
+      "red": 0.0,
+      "green": 0.0,
+      "blue": 25.0,
+      "alpha": 255.0
+    },
+    "SEED": 11,
+    "MAX_ACCEPTABLE_FIELD_VALUE": 2.0,
+    "FIELD_NEIGHBOUR_VALUE": 1.0,
+    "FIELD_POINT_VALUE": 10.0,
+    "WIDTH": 1000,
+    "SCALE": 2,
+    "HEIGHT": 1000,
+    "NOISE_SCALE": 0.01,
+    "BACKGROUND_COLOR": {
+      "red": 255.0,
+      "green": 255.0,
+      "blue": 255.0,
+      "alpha": 255.0
+    }
+  }
+}
